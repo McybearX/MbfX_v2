@@ -43,4 +43,6 @@ $ XNX Code Team
 $ Mcybear× Team
 
 # Support Saya Dengan Follow Github & YOUTUBE Saya ʕ×_×ʔ
-[•] https://youtube.com/c/MBEWLEGS
+
+# PASSWORD TOOL ADA DI SINI 👇
+[•] https://youtu.be/lroW6dgPEDE
