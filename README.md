@@ -3,9 +3,6 @@
 Script Crack Facebook yang dirawat seperti anak sendiri
 
 
-# Bukti Recode
-[•] <img src="https://kosred.com/a/hludjh.jpg"/>
-
 # Install Script
 
 $ pkg update && pkg upgrade
