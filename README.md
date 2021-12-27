@@ -21,11 +21,11 @@ $ pip install bs4
 
 $ pip install futures
 
-$ git clone https://github.com/McybearX/MbfX
+$ git clone https://github.com/McybearX/MbfX_v2
 
 # Run Script
 
-$ cd MbfX
+$ cd MbfX_v2
 
 $ python MbfX.py
 
@@ -41,6 +41,5 @@ $ XNX Code Team
 
 $ Mcybear× Team
 
-# Support Saya Dengan Follow Github and Facebook Saya (>•,•<)
-
-[•] https://www.facebook.com/
+# Support Saya Dengan Follow Github YOUTUBE Saya ʕ×_×ʔ
+[•] https://youtube.com/c/MBEWLEGS
