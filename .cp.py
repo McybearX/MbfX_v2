@@ -4,6 +4,48 @@
 # Recode Taik
 # Versi 2.6
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 import time,os
 
 try:
