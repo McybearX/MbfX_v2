@@ -41,5 +41,5 @@ $ XNX Code Team
 
 $ Mcybear× Team
 
-# Support Saya Dengan Follow Github YOUTUBE Saya ʕ×_×ʔ
+# Support Saya Dengan Follow Github & YOUTUBE Saya ʕ×_×ʔ
 [•] https://youtube.com/c/MBEWLEGS
