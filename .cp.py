@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 # McybearX Projeck
 # Tools MbfX
-# Recode Taik Kucing
+# Recode Taik
 # Versi 2.6
 
 import time,os
