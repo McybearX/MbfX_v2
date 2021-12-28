@@ -48,3 +48,9 @@ $ Mcybear× Team
 
 # PASSWORD TOOL ADA DI SINI 👇
 [•] https://youtu.be/lroW6dgPEDE
+
+# join grup whatsapp lewat TERMUX
+
+$ xdg-open https://chat.whatsapp.com/BS6l4dCa9aC8TQ46wB8W06
+
+# ketik printah diatas di termux kalian    maka akan otomatis join ke grup whatsapp McybearX TEAM
