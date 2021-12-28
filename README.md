@@ -1,3 +1,5 @@
+# Jangan lupa BINTANG ⭐ NYA!!!! 
+
 # <span color="red">MbfX_v2 ʕ×_×ʔ
 </span>
 
